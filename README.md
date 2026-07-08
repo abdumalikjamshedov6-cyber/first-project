@@ -1,2 +1,2 @@
-# first-project
-# first-project
+this file is my first projeckt 
+dont duz it
